@@ -1,0 +1,24 @@
+{
+  "name": "fullscreen",
+  "version": "0.1.0",
+  "homepage": "https://github.com/xxg3053/fullscreen",
+  "authors": [
+    "xxg3053 <xxg3053@qq.com>"
+  ],
+  "description": "全屏滚动实现",
+  "main": "index.html",
+  "keywords": [
+    "全屏"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
